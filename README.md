@@ -1,9 +1,8 @@
 # PhothBooth_App
 The Inspiration for this project came from my working knowledge of Mathematica's image processing capabilities and my gained understanding of the dynamic function. Thus the goal of this project is to make an interactive Photo Booth, one that is unique from what we currently have on our phones and other devices.
 
-This App is a dynamic photo booth! Users are able to name the image, change the filter color and opacity as well as save the image to their computer as a png. (YAY IT ACTUALLY WORKS)
 
-This is the finial photo booth note this verison does not include my custom functions but should give a genral idea of mathematica code 
+This is the finial photo booth note this verison does not include my custom functions but should give a genral idea of mathematica code (I will update this selction so people without mathamatica can see the full code later )
 
 CreatePalette[( * creates a new tab seperate from mathematica 's \notebook view *){
     inputname = InputString["Enter file name for picture"],
